@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 11. Software Repositories - Adding and Managing Package Repositories
-permalink: repositories
+title: 11. Repositórios de software - adicionando e gerenciando repositórios de pacotes
+permalink: repositorios
 ---
 
-# 11. Software Repositories
+# 11. Repositórios de software
 
 As mentioned in the previous chapter, the package manager installs software by fetching packages from software repositories, therefore the software available for easy installation via the package manager depends on the configured repositories.
 

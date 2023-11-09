@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 7. Security and Root - Basic Security and Working as the Root User
-permalink: security
+title: 7. Segurança e root - segurança básica e trabalhando como o usuário root
+permalink: seguranca
 ---
 
-# 7. Security and Root
+# 7. Segurança e root
 
 openSUSE and GNU/Linux in general is a very secure operating system, but when using any computer on the internet one should always be careful.
 

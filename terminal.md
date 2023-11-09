@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 8. Terminal - Running Commands and Using the Command Line Interface on openSUSE
-permalink: command
+title: 8. Terminal - executando comandos e usando a interface de linha de comando no openSUSE
+permalink: terminal
 ---
 
 # 8. Terminal

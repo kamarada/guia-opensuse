@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 6. Apps for Common Tasks - Applications to Perform the Most Common Tasks
-permalink: apps
+title: 6. Aplicativos para tarefas comuns - aplicativos para fazer as tarefas mais comuns
+permalink: aplicativos
 ---
 
-# 6. Apps for Common Tasks
+# 6. Aplicativos para tarefas comuns
 
 Here's a list of applications used to perform common tasks, they're all installed by default and are all high quality, but naturally you can replace them with alternatives if you wish.
 

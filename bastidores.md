@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Appendix C: Under the Hood - A Look at What's Happening Under the Surface"
-permalink: under
+title: "Apêndice C: Bastidores - saiba o que está acontecendo em mais profundidade"
+permalink: bastidores
 ---
 
-# Appendix C: Under the Hood
+# Apêndice C: Bastidores
 
 The purpose of this chapter is to give the reader a quick look and basic idea of what's going on beneath the surface of the openSUSE GNU/Linux operating system.
 

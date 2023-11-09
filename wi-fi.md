@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 15. Wireless Driver Installation - Making Your Broadcom, Ralink etc. Wifi/Wlan Work
-permalink: wlan
+title: 15. Drivers para redes Wi-Fi - faça sua placa de rede sem fio Broadcom, Ralink, etc. funcionar no openSUSE
+permalink: wi-fi
 ---
 
-# 15. Wifi Driver Installation
+# 16. Drivers para redes Wi-Fi
 
 Most of the time wifi will just work out of the box. In these cases you'll be able to configure your wireless card using the NetworkManagement widget which you should find running in your system tray.
 

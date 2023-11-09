@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Appendix E: Getting Involved - Being a Part of the openSUSE Community and How to Contribute"
-permalink: contribute
+title: "Apêndice E: Participando - fazendo parte da comunidade openSUSE e como contribuir"
+permalink: participando
 ---
 
-# Appendix E: Getting Involved
+# Apêndice E: Participando
 
 openSUSE is developed in the open, and everybody can join in - this means that you can help to create and shape openSUSE. If you wish to participate actively in openSUSE or other free software projects, there are plenty of things to do. Finding something that matches your interests, available time and your skills should be no problem at all.
 

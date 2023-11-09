@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 2. Switching to GNU/Linux - Benefits and Challenges of Migrating to GNU/Linux
-permalink: switching
+title: 2. Migrando para o GNU/Linux - vantagens e desafios de migrar para o GNU/Linux
+permalink: migrando
 ---
 
-# 2. Switching to GNU/Linux
+# 2. Migrando para o GNU/Linux
 
 Switching to a new and very different operating system is quite an endeavour - of course you don't have to switch entirely, nothing prevents you from using multiple operating systems - even on the same computer. This chapter describes some of the things to consider before venturing into the wonderful world of GNU/Linux.
 

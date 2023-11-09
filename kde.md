@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 5. KDE Workspace - Use and Configure KDE on Desktop or Netbook
+title: 5. Área de trabalho KDE Plasma - use e configure o KDE no desktop ou notebook
 permalink: kde
 ---
 
-# 5. KDE Plasma Workspace
+# 5. Área de trabalho KDE Plasma
 
 The KDE Plasma workspace is one of the first things you'll see when you boot openSUSE Leap for the first time. The desktop workspace consists of the desktop itself, menus, panels, file management and window management.
 

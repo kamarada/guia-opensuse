@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Appendix B: Games - Playing Games on openSUSE"
-permalink: games
+title: "Apêndice B: Jogos - jogando no openSUSE"
+permalink: jogos
 ---
 
-# Appendix B: Games
+# Apêndice B: Jogos
 
 Not all major, mainstream games run natively on GNU/Linux, but there are still plenty of gaming options.
 

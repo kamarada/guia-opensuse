@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 14. Graphics Drivers - Install Nvidia or ATI/AMD 3D Driver
-permalink: 3d
+title: 14. Drivers gráficos - instale os drivers das placas de vídeo 3D NVIDIA ou ATI/AMD no openSUSE
+permalink: drivers-graficos
 ---
 
-# 14. Graphics Drivers
+# 14. Drivers gráficos
 
 Note that there's no need to install the below non-free video drivers, if the free drivers used by default work for your needs.
 

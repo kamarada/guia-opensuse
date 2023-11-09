@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 12. MS Windows Interoperability - Using openSUSE With Windows Network, Documents and Running MS Windows
+title: 12. Integração com o Windows - usando o openSUSE em uma rede Windows, abrindo documentos do Office e executando aplicativos para Windows
 permalink: windows
 ---
 
-# 12. MS Windows Interoperability
+# 12. Integração com o Windows
 
 The PC world is dominated by Microsoft, and they're not exactly known for making interoperability easy. Despite this, it's possible to interoperate fairly seamlessly in most cases. This chapter addresses the most common issues.
 

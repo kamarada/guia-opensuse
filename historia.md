@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Appendix D: History and Background - What is Free Software and Open Source and What is the History of openSUSE"
-permalink: history
+title: "Apêndice D: História - o que é software livre e de código aberto e qual é a história do openSUSE"
+permalink: historia
 ---
 
-# Appendix D: History and Background
+# Apêndice D: História
 
 The purpose of this chapter is to give readers some insight into and background knowledge of the history and eco system of GNU/Linux and free/open source software in general.
 

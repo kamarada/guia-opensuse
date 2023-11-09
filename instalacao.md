@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 4. Installation - Howto Install openSUSE on Your Computer
-permalink: installation
+title: 4. Instalação - como instalar o openSUSE no seu computador
+permalink: instalacao
 ---
 
-# 4. Installation
+# 4. Instalação
 
 This is just a brief description of openSUSE installation. For more thorough help see the official documentation.
 

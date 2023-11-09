@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Appendix A: Help and Docs - Support and Documentation for openSUSE"
-permalink: help
+title: "Apêndice A: Ajuda e documentação - suporte e documentação do openSUSE"
+permalink: ajuda
 ---
 
-# Appendix A: Help and Docs
+# Apêndice A: Ajuda e documentação
 
 This guide is just a brief introduction to some of the basics, so it's likely you're going to need additional help at some point. Nothing beats getting help from a friend face-to-face and on-site, but that's often not an option, so thankfully there are many places where you can get help from openSUSE users online - which method to choose depends on your personal preference.
 

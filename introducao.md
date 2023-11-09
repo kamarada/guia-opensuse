@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 1. Introduction - Beginner's Guide to openSUSE Leap 15.5 / SUSE Linux
-permalink: introduction
+title: 1. Introdução - Guia do openSUSE Leap 15.5 para Iniciantes
+permalink: introducao
 redirect_from: /index.html
 ---
 
-# 1. Introduction
+# 1. Introdução
 
 The purpose of this guide is to provide new users with everything they need to know to get started using openSUSE Leap as a home user/small office desktop operating system - quickly and easily.
 

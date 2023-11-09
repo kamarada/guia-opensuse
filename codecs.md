@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 13. Multimedia Codecs - Install Support for restricted codecs including MP3, DVD, WMA, WMV, MOV etc.
+title: 13. Codecs multimídia - instale suporte para codecs restritos como MP3, DVD, WMA, WMV, MOV, etc. no openSUSE
 permalink: codecs
 ---
 
-# 13. Multimedia Codecs
+# 13. Codecs multimídia
 
 This chapter describes two different methods for installing the packages needed to playback most multimedia formats - including MP3, DVDs etc., with the default media player VLC as well as playing online videos in Firefox. You can use manual 1-click installation or use the command line - whichever method you prefer.
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 9. Administrator Settings (YaST) - Introduction to the YaST Setup Tool
+title: 9. Configurações de administrador (YaST) - introdução ao Centro de controle do YaST
 permalink: yast
 ---
 
-# 9. Administrator Settings (YaST)
+# 9. Configurações de administrador (YaST)
 
 YaST (Yet another Setup Tool) is the central tool for system administration. You find YaST in the launch menu in the System category.
 

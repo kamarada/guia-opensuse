@@ -1,7 +1,7 @@
 ---
 layout: default
-title: GNU Free Documentation License
-permalink: license
+title: Licença de Documentação Livre GNU
+permalink: licenca
 ---
 
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
@@ -14,7 +14,7 @@ permalink: license
 
 ***
 
-### GNU Free Documentation License
+### Licença de Documentação Livre GNU
 
 Version 1.3, 3 November 2008
 

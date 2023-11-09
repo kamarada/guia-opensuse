@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 3. Getting openSUSE - Howto Download or Buy openSUSE
-permalink: acquisition
+title: 3. Obtendo o openSUSE - como baixar ou comprar o openSUSE
+permalink: obtendo
 ---
 
-# 3. Getting openSUSE
+# 3. Obtendo o openSUSE
 
 Here are some of the ways of acquiring openSUSE.
 

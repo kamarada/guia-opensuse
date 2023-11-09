@@ -1,53 +1,53 @@
-- title: Getting Started
+- title: Começando
   pages:
-  - title: 1. Introduction
-    link: introduction
-  - title: 2. Switching to GNU/Linux
-    link: switching
-  - title: 3. Getting openSUSE
-    link: acquisition
-  - title: 4. Installation
-    link: installation
+  - title: 1. Introdução
+    link: introducao
+  - title: 2. Migrando para o GNU/Linux
+    link: migrando
+  - title: 3. Obtendo o openSUSE
+    link: obtendo
+  - title: 4. Instalação
+    link: instalacao
 
-- title: The Fundamentals
+- title: O Básico
   pages:
-  - title: 5. KDE Plasma Workspace
+  - title: 5. Área de trabalho KDE Plasma
     link: kde
-  - title: 6. Apps for Common Tasks
-    link: apps
-  - title: 7. Security and Root
-    link: security
+  - title: 6. Aplicativos para tarefas comuns
+    link: aplicativos
+  - title: 7. Segurança e root
+    link: seguranca
   - title: 8. Terminal
-    link: command
-  - title: 9. Admin. Settings (YaST)
+    link: terminal
+  - title: 9. Configurações de admin. (YaST)
     link: yast
-  - title: 10. Installing Software
-    link: installpackage
-  - title: 11. Software Repositories
-    link: repositories
+  - title: 10. Instalando software
+    link: instalando-software
+  - title: 11. Repositórios de software
+    link: repositorios
 
-- title: Setup
+- title: Configuração
   pages:
-  - title: 12. MS Windows Interop
+  - title: 12. Integração com o Windows
     link: windows
-  - title: 13. Multimedia Codecs
+  - title: 13. Codecs multimídia
     link: codecs
-  - title: 14. Graphics Drivers
-    link: 3d
-  - title: 15. Wifi
-    link: wlan
+  - title: 14. Drivers gráficos
+    link: drivers-graficos
+  - title: 15. Wi-Fi
+    link: wi-fi
 
-- title: Appendix
+- title: Apêndice
   pages:
-  - title: "A: Help and Docs"
-    link: help
-  - title: "B: Games"
-    link: games
-  - title: "C. Under the Hood"
-    link: under
-  - title: "D. History and Background"
-    link: history
-  - title: "E: Getting Involved"
-    link: contribute
-  - title: GNU Free Documentation License
-    link: license
+  - title: "A: Ajuda e documentação"
+    link: ajuda
+  - title: "B: Jogos"
+    link: jogos
+  - title: "C. Bastidores"
+    link: bastidores
+  - title: "D. História"
+    link: historia
+  - title: "E: Participando"
+    link: participando
+  - title: Licença de Documentação Livre GNU
+    link: licenca
